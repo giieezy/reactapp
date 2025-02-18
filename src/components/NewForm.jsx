@@ -1,3 +1,3 @@
 export default function NewForm() {
-  return <div>Testing part</div>;
+  return <div>Testing lang to</div>;
 }
