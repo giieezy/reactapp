@@ -1,3 +1,3 @@
 export default function NewForm() {
-  return <div></div>;
+  return <div>Testing part</div>;
 }
